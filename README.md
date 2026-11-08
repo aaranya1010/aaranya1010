@@ -1,16 +1,47 @@
-## Hi there 👋
+## Profile snapshot
 
-<!--
-**aaranya1010/aaranya1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=aaranya1010&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210129077%3Fv%3D4" alt="aaranya1010 hero visual" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><b>Frontend or full-stack engineer</b></p>
+
+</div>
+
+## About
+
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## Core toolkit
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=aaranya1010&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210129077%3Fv%3D4" alt="aaranya1010 stack visual" />
+</p>
+
+## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=aaranya1010&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210129077%3Fv%3D4" alt="aaranya1010 projects visual" />
+</p>
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=aaranya1010&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210129077%3Fv%3D4" alt="aaranya1010 social visual" />
+</p>
+
+<a href="https://github.com/aaranya1010">GitHub</a>
+
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aaranya1010&theme=satan" alt="aaranya1010 contribution activity" />
+</p>
+
+<p align="center"><sub>aaranya1010 · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
