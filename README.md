@@ -6,7 +6,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=aaranya1010&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210129077%3Fv%3D4" alt="aaranya1010 hero visual" />
 </p>
 
-<p><b>Frontend or full-stack engineer</b></p>
+<p><b>Biomedical engineer</b></p>
 
 </div>
 
